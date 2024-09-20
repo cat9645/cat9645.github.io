@@ -11,7 +11,9 @@ header:
 typora-root-url: ../
 ---
 
-![Image](https://www.snu.ac.kr/webdata/boardimages/kobodo/img_20240403_001.jpg)
+![Image](/images/2024-09-06-testfile copy/2905_4384_4325.jpg)
+
+
 
 # 파워플랜트 행사!
 
