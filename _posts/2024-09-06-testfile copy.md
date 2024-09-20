@@ -11,7 +11,7 @@ header:
 typora-root-url: ../
 ---
 
-![Image](/images/2024-09-06-testfile copy/2905_4384_4325.jpg)
+![Image](https://www.snu.ac.kr/webdata/boardimages/kobodo/img_20240403_001.jpg)
 
 
 
